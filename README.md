@@ -6,9 +6,15 @@
 
 Run the code in the following order:
 
+
 Step 1. Run the 'script_dataload.m' locating the proper directory containing all the runs of the preprocessed time-series fMRI data.
+
+
 Step 2. Run the 'intersection_union_script.m'
+
+
 Step 3. If want to classify with SVM, run 'classification_SVM.m', and if with ELM then run 'classification_ELM.m'
+
 
 The MAT file named 'Contrast_AudOdd_Dev_Std_15T_2D.mat' contains the data for 34 healthy subjects (first 34) and 34 schizophrenia patients (next 34).
 This are the contrast maps obtained from GLM analysis of time-series fMRI data for 4 runs of Auditory-oddball task.
