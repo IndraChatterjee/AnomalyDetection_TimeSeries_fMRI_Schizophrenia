@@ -1,8 +1,8 @@
 # AnomalyDetection_TimeSeries_fMRI_Schizophrenia
 
-## By: Indranath Chattterjee
-## Department of computer science, University of Delhi, Delhi-110007,
-## E-mail: indranath.cs.du@gmail.com
+### By: Indranath Chattterjee
+### Department of computer science, University of Delhi, Delhi-110007,
+### E-mail: indranath.cs.du@gmail.com
 
 Run the code in the following order:
 
