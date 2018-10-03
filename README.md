@@ -4,7 +4,7 @@
 ### Department of computer science, University of Delhi, Delhi-110007,
 ### E-mail: indranath.cs.du@gmail.com
 
-#### IndraChatterjee/AnomalyDetection_TimeSeries_fMRI_Schizophrenia is licensed under the Creative Commons Attribution 4.0 International
+#### IndraChatterjee/AnomalyDetection_TimeSeries_fMRI_Schizophrenia is licensed under the Creative Commons Zero v1.0 Universal.
 
 
 Run the code in the following order:
